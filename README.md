@@ -53,5 +53,4 @@ This repository contains problems and solutions covering a variety of fundamenta
 
 ---
 
-## 📂 Repository Structure
 
